@@ -1,6 +1,0 @@
-from tkinter import *
-import tkinter.messagebox
-root = Tk()
-tkinter.messagebox.showinfo('dsfdsfdsdfds','jkjkjkjkj')
-
-root.mainloop()
